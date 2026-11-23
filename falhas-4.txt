@@ -1,0 +1,2 @@
+celular › lista de membros: fecha pelo X do cabeçalho e reabre pela setinha
+celular › BLACKOUT: botão só nos destaques da instância BLACKOUT e abre o compêndio
